@@ -1,13 +1,5 @@
 # The MakerLab V2 — MakerLab EIA (Entrega 1)
 
-Esta es una **copia del proyecto `TheMakerLab`** con el **mismo código y la misma
-funcionalidad**, pero con las anotaciones/comentarios línea a línea **eliminados** para
-poder leerlo de forma más compacta en Eclipse.
-
-- El código es **idéntico** al del proyecto original; solo se quitaron los comentarios
-  (`//`, `/* */`, `/** */`). La salida por consola es exactamente la misma.
-- Nombre del proyecto Eclipse: **`TheMakerLab V2`** (distinto del original, para poder
-  tener ambos importados a la vez).
 - Clase principal: `co.edu.eia.makerlab.app.MakerLabApp`.
 
 ## Importar y ejecutar (Eclipse)
