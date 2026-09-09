@@ -16,5 +16,3 @@ find src -name "*.java" > sources.txt && javac -d bin -encoding UTF-8 @sources.t
 java -cp bin co.edu.eia.makerlab.app.MakerLabApp
 ```
 
-> La **documentación completa** (README detallado, comprensión del problema, UML y mapeo a
-> Java) está en el proyecto original **`TheMakerLab`**, carpeta `docs/`.
